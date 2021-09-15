@@ -1,0 +1,11 @@
+html{
+    background-color: lightblue;
+}
+
+h1{
+    margin: 0;    /*去掉顶部缝隙*/
+}
+
+p{
+    color: hotpink;
+}
